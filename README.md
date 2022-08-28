@@ -1,7 +1,7 @@
 # Primeiros projetos
 
-##Construção dos primeiros códigos.
+Construção dos primeiros códigos.
 
-##1 - Jogo da Forca 
+1 - Jogo da Forca 
 
-##2 - Validação de CPFconstruido com Python e Flask
+2 - Validação de CPFconstruido com Python e Flask
